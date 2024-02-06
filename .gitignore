@@ -1,0 +1,5 @@
+# .gitignore file contains name of the directories which should be ignored by git when we push folder 
+
+# we are not pushing node modules as they are big in size than expected and occupies more space in repo
+
+/node_modules
